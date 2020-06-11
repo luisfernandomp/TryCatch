@@ -1,0 +1,13 @@
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.exe
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.deps.json
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.runtimeconfig.json
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.runtimeconfig.dev.json
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.dll
+C:\Users\HOME\Documents\tryCath\bin\Debug\netcoreapp3.1\tryCath.pdb
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.AssemblyInfo.cs
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.dll
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.pdb
+C:\Users\HOME\Documents\tryCath\obj\Debug\netcoreapp3.1\tryCath.genruntimeconfig.cache
